@@ -7,6 +7,8 @@
 </p>
 <br>
 
+> **Fork notice:** This repository is a stale mirror of [bia-pain-bache/BPB-Worker-Panel](https://github.com/bia-pain-bache/BPB-Worker-Panel). Its `main` stops at commit `5a5ad41` (2024-10-13) and no longer shares any history with upstream `main`, so it cannot be fast-forwarded. Use the upstream repository for current code, issues and releases.
+
 ## Introduction
 This project is dedicated to developing a user panel for the [Cloudflare-workers/pages proxy script](https://github.com/yonggekkk/Cloudflare-workers-pages-vless) created by [yonggekkk](https://github.com/yonggekkk). The panel offers two deployment options: 
 - **Worker** deployment
